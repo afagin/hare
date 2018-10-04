@@ -12,7 +12,7 @@
 ## Installation
 
 ``` bash
-$ git clone git@github.com:clarkdo/hare.git
+$ git clone https://bitbucket.org/gustavo_lz/hare-dev.git
 $ cd hare
 # install dependencies
 $ yarn
